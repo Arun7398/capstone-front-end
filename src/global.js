@@ -1,0 +1,1 @@
+export const API='https://zen-class-event-for-student-backend.onrender.com/api'
